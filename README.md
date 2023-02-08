@@ -13,3 +13,5 @@ HI!!!     I'M LUCAS
 •sql
 
 •spring
+
+•AWS
