@@ -27,5 +27,5 @@
 
 
 Apaixonado por tecnologia, educação e inovação. 
-Me dedico a ser um dev fullJava utilizando spring, com grandes conhecimentos em cloud e analise de dados. 
-
+Me dedico a ser um dev fullJava utilizando spring, com grandes conhecimentos em cloud. 
+Possuo experiência em frontend utilizando react.js and angular. 
