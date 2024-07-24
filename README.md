@@ -1,5 +1,5 @@
 
-## Olá! Eu sou o Lucas Magalhães ✋
+## Hey There, I'm Lucas Magalhães ✋
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmagalhaees/)
 [![Gemail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/lucasdecassia09@gmail.com)
