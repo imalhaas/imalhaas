@@ -23,7 +23,7 @@
 </div><br/>
 
 
+ 
+Desenvolvedor Fullstack. Com um vasto conhecimento em Frontend e Backend. 
 
-Apaixonado por tecnologia, educação e inovação. 
-Me dedico a ser um dev fullJava utilizando spring, com grandes conhecimentos em cloud. 
-Possuo experiência em frontend utilizando react.js and angular. 
+Como desenvolvedor, minha missão é criar interfaces intuitivas e responsivas que proporcionem uma experiência de usuário fluida e agradável. Como também APIs REST bem robustas. Embora eu tenha conhecimentos fullstack.
